@@ -1,0 +1,2 @@
+# MinecraftSetup
+FastestStartupMcServer
