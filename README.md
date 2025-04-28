@@ -1,4 +1,4 @@
-# StartupMcServer
+# FullMcServer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20%2B-blue.svg)](https://www.minecraft.net)
